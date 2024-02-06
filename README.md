@@ -10,8 +10,8 @@
 
 ## How it works?
 
-This script porpouse is to scrapp books data from `https://books.toscrape.com`, 
-using selenium grid it create concurrent sessions to scrape all data from many pages and put ir on a csv file.
+This script's purpose is to scrape book data from https://books.toscrape.com using Selenium Grid 
+to create concurrent sessions for scraping data from multiple pages and store it in a CSV file.
 
 ***Note: The website being scraped is open for scraping, and Selenium is not necessary. 
 However, it's worth noting that this script was created as a training exercise, hence the use of Selenium despite it not being necessary.***
